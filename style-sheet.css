@@ -137,3 +137,8 @@ h1{
     animation-delay: 7s;
     width: 85px;
 }
+.pictures{
+    position: absolute;
+    top: 50%;
+    left:5%;
+    }
